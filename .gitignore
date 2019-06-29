@@ -15,7 +15,7 @@
 
 # Mono arquivos gerados automaticamente
 mono_crash. *
-
+.vs
 # Construir resultados
 [Dd] ebug /
 [Dd] ebugPublic /
